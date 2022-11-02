@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.9f32f42b.chunk.js",
-    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.9f32f42b.chunk.js.map",
+    "main.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.abcd6c4e.chunk.js",
+    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.abcd6c4e.chunk.js.map",
     "runtime-main.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/runtime-main.b3b6b177.js",
     "runtime-main.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/runtime-main.b3b6b177.js.map",
-    "static/js/2.c2fa024a.chunk.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.c2fa024a.chunk.js",
-    "static/js/2.c2fa024a.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.c2fa024a.chunk.js.map",
+    "static/js/2.b6b10543.chunk.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.b6b10543.chunk.js",
+    "static/js/2.b6b10543.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.b6b10543.chunk.js.map",
     "index.html": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/index.html",
-    "static/js/2.c2fa024a.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.c2fa024a.chunk.js.LICENSE.txt"
+    "static/js/2.b6b10543.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.b6b10543.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b6b177.js",
-    "static/js/2.c2fa024a.chunk.js",
-    "static/js/main.9f32f42b.chunk.js"
+    "static/js/2.b6b10543.chunk.js",
+    "static/js/main.abcd6c4e.chunk.js"
   ]
 }
