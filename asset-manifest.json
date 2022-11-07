@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/css/main.993126ea.chunk.css",
-    "main.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.55c50508.chunk.js",
-    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.55c50508.chunk.js.map",
+    "main.css": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/css/main.d8c5ed0d.chunk.css",
+    "main.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.c6dd031c.chunk.js",
+    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/main.c6dd031c.chunk.js.map",
     "runtime-main.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/runtime-main.b3b6b177.js",
     "runtime-main.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/runtime-main.b3b6b177.js.map",
     "static/js/2.c0be8f45.chunk.js": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.c0be8f45.chunk.js",
     "static/js/2.c0be8f45.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.c0be8f45.chunk.js.map",
     "index.html": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/index.html",
-    "static/css/main.993126ea.chunk.css.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/css/main.993126ea.chunk.css.map",
+    "static/css/main.d8c5ed0d.chunk.css.map": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/css/main.d8c5ed0d.chunk.css.map",
     "static/js/2.c0be8f45.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-h5gn1h/static/js/2.c0be8f45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b6b177.js",
     "static/js/2.c0be8f45.chunk.js",
-    "static/css/main.993126ea.chunk.css",
-    "static/js/main.55c50508.chunk.js"
+    "static/css/main.d8c5ed0d.chunk.css",
+    "static/js/main.c6dd031c.chunk.js"
   ]
 }
